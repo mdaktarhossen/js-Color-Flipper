@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container{
+  margin: 100px;
+}
+
+h1 {
+  display: inline-block;
+  background-color: black;
+  padding: 15px;
+  border-radius: 10px;
+  margin: 10px;
+  color: white;
+}
+
+.btn{
+  display: inline-block;
+  text-align: center;
+}
